@@ -5,10 +5,10 @@
     font-family: 'popping', sans-serif;
 } */
 .hero{
-   
-   
+    width: 100%;
+    min-height: 100vh;
     background-image: url(../images/aaaa.jpg);
-   
+    height: max-content;
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
